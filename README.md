@@ -1,5 +1,7 @@
 # CSES Solutions
 
+<img src="https://github.com/KevinyWu/KevinyWu/blob/main/images/cses.png" alt="cses" width="600"/>
+
 Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by [Kevin Wu](https://cses.fi/user/159025). Explanations to each solution are written in the code as comments.
 
 | Section               |     Solved    |
