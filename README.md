@@ -8,7 +8,7 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 |-----------------------|:-------------:|
 | Introductory Problems |     19/19     |
 | Sorting and Searching |     28/35     |
-| Dynamic Programming   |     16/19     |
+| Dynamic Programming   |     17/19     |
 | Graph Algorithms      |     0/36      |
 | Range Queries         |     0/19      |
 | Tree Algorithms       |     0/16      |
