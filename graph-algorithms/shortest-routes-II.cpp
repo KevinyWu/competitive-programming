@@ -5,7 +5,7 @@ using namespace std;
  
  
 void solve() {
-    // This problem is solved using Ford-Warshall algorithm
+    // This problem is solved using Floyd-Warshall algorithm
     int n, m, q; cin >> n >> m >> q;
     vector<vector<ll>> dists(n+1, vector<ll>(n+1, 1e18));
     for (int i = 0; i < m; i++) {
